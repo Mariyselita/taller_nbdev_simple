@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://Mariyselita.github.io',
                 'git_url': 'https://github.com/Mariyselita/taller_nbdev_simple',
                 'lib_path': 'taller_nbdev_simple'},
-  'syms': {'taller_nbdev_simple\\core': {'taller_nbdev_simple\\core.foo': ('core.html#foo', 'taller_nbdev_simple\\core.py')}}}
+  'syms': { 'taller_nbdev_simple\\core': { 'taller_nbdev_simple\\core.foo': ('core.html#foo', 'taller_nbdev_simple\\core.py'),
+                                           'taller_nbdev_simple\\core.saludo_a': ('core.html#saludo_a', 'taller_nbdev_simple\\core.py')}}}
